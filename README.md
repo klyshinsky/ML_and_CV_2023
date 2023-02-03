@@ -10,4 +10,12 @@
 ### Тетрадки к лекциям и записи лекций
 
 [Лекция 2023.01.13](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230113_numpy.ipynb) - Numpy  
-[Лекция 2023.01.13](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230113_Pandas.ipynb) - Pandas  
+
+[Лекция 2023.01.20](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230113_Pandas.ipynb) - Pandas  
+
+[Лекция 2023.01.27](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230126_image_processing.ipynb) - Обработка изображений
+
+[Лекция 2023.02.03](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230203_clustering.ipynb) - Кластеризация
+  
+ 
+
