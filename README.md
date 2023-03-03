@@ -19,3 +19,4 @@
   
 [Лекция 2023.02.03](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230217_OpenCV.ipynb) - OpenCV
 
+[Лекция 2023.02.03](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230303_Classification.ipynb) - Классификация
