@@ -22,3 +22,5 @@
 [Лекция 2023.03.03](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230303_Classification.ipynb) - Классификация: k-ближайших соседей, регрессия
 
 [Лекция 2023.03.10](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230310_DecisionTrees.ipynb) - деревья принятия решений
+
+[Лекция 2023.03.10](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20220415_Ensamble.ipynb) - ансемблирование
