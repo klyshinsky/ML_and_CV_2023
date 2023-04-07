@@ -23,4 +23,10 @@
 
 [Лекция 2023.03.10](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230310_DecisionTrees.ipynb) - деревья принятия решений
 
-[Лекция 2023.03.10](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20220415_Ensamble.ipynb) - ансемблирование
+[Лекция 2023.03.17](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20220415_Ensamble.ipynb) - ансемблирование
+
+[Лекция 2023.04.07, часть 1](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230407_1_regexp.ipynb) - регулярные выражения  
+[Лекция 2023.04.07, часть 2](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230407_2_requests.ipynb) - загрузка файлов из Интернет при помощи requests  
+
+[Лекция 2023.04.14](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230414_text_processing.ipynb) - основы обработки текстов
+
