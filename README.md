@@ -30,3 +30,5 @@
 
 [Лекция 2023.04.14](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230414_text_processing.ipynb) - основы обработки текстов
 
+[Лекция 2023.04.14](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230428_W2V_Bert.ipynb) - векторизация текста с использованием Word2Vec и Bert.
+
