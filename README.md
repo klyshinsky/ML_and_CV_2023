@@ -32,4 +32,4 @@
 
 [Лекция 2023.04.14](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230428_W2V_Bert.ipynb) - векторизация текста с использованием Word2Vec и Bert.
 
-[Лекция 2023.05.12](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230512_Neural_Networks_Dense_CNN_RNN.ipynb] - нейронные сети.
+[Лекция 2023.05.12](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20230512_Neural_Networks_Dense_CNN_RNN.ipynb) - нейронные сети.
